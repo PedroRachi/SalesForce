@@ -1,0 +1,17 @@
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Pedro Mesquita; Quantidade 5; Valor Total 500.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Eliete Mesquita; Quantidade 2; Valor Total 200.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Oscar Antonio; Quantidade 10; Valor Total 1000.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Luiz Berber; Quantidade 7; Valor Total 700.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Pedro Mesquita; Quantidade 10; Valor Total 1000.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Pedro Mesquita; Quantidade 2; Valor Total 200.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Luiz Berber; Quantidade 10; Valor Total 1000.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Eliete Mesquita; Quantidade 2; Valor Total 200.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Pedro Mesquita; Quantidade 10; Valor Total 1000.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Luiz Berber; Quantidade 5; Valor Total 500.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Pedro Mesquita; Quantidade 10; Valor Total 1000.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Luiz Berber; Quantidade 10; Valor Total 1000.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Pedro Mesquita; Quantidade 2; Valor Total 200.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Pedro Mesquita; Quantidade 10; Valor Total 1000.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Oscar Antonio; Quantidade 20; Valor Total 2000.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Pedro Mesquita; Quantidade 2; Valor Total 200.0
+Codigo do Produto 51998; Nome do Produto Sapato; Nome Cliente Luiz Berber; Quantidade 10; Valor Total 1000.0

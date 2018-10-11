@@ -1,0 +1,88 @@
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+body {
+  padding-top: 50px;
+}
+
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+body {
+   padding-top: 50px;
+}
+.login-box{
+    background-color:#F5F5F5;
+    width: 480px;
+    height: 360;
+    margin: 10px auto 10px;
+    border-radius: 5px;
+    
+}
+     /*Aqui eu faco <DIV> aparente na cor Branca */
+.login-box-interno{
+	width: 460px;
+	height: 400px; 
+	background-color:#fdfdfd;
+	position: absolute;
+	margin: 10px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px black;
+	overflow: hidden;/*serve para nÃ£o ultrapassar os campos da div's e nÃ£o aparecer o escessos*/ 
+
+}
+   /*Aqui eu faco <DIV> A Parte aonde esta escrito Acesso a Central */
+.login-box-label{
+	
+	height: 45px;
+	text-align: center;
+
+	font: bold 14px/45px sans-serif; /*Aqui eu configuro a fonte do sistema operacional */
+	border-top-left-radius: 5px;/*Aqui adiciono as bordas superiores lado direito e esquerdo arredondadas */
+	border-top-right-radius: 5px;
+
+	
+     /*Aqui ainda na parte superior eu adiciono um efeito pronto para da <DIV> */
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f6f6f6+56,f6f6f6+67,f6f6f6+67,f6f6f6+75,f6f6f6+82,f6f6f6+89,f6f6f6+89,ededed+100 */
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top, #ffffff 0%, #f6f6f6 56%, #f6f6f6 67%, #f6f6f6 67%, #f6f6f6 75%, #f6f6f6 82%, #f6f6f6 89%, #f6f6f6 89%, #ededed 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #ffffff 0%,#f6f6f6 56%,#f6f6f6 67%,#f6f6f6 67%,#f6f6f6 75%,#f6f6f6 82%,#f6f6f6 89%,#f6f6f6 89%,#ededed 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #ffffff 0%,#f6f6f6 56%,#f6f6f6 67%,#f6f6f6 67%,#f6f6f6 75%,#f6f6f6 82%,#f6f6f6 89%,#f6f6f6 89%,#ededed 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */ 
+
+    border-bottom: 1px solid #bfc3c5;/*aqui diciono uma linha abaixo do texto acesso a central*/
+    box-shadow: 1px 0px 3px #dedede;/*aqui a sombra desta linha*/
+    color: 555555;
+    text-shadow: 2px 0px 2px white;
+}
+/**/
+.input-div{
+     margin: 50px;
+     padding: 5px;
+     background-color: #f2f5f7;
+     border-radius: 3px;
+}
+/**/
+.input-div input{
+	width: 350px;
+	height: 35px;
+	padding-left: 5px;
+	font: normal 13px sans-serif
+	color: aeaeae;
+	border-radius: 3px;
+	border: 1px solid #bfc4c6;
+	outline: none;
+}
+/*Aqui eu adiciono o efeito de sombra aonde eu seleciono ocampo login ou senha*/
+.input-div:hover{
+	background-color: #e0f1fc;
+}
+
+.input-div: hover input{
+	border-color: #7dc6dd;
+}
+.input-senha{
+	margin-top: -10px;
+}
