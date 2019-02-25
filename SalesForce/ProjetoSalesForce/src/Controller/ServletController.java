@@ -9,6 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import Command.Command;
+/*Controller*/
 
 @WebServlet("/controller.do")
 public class ServletController extends HttpServlet {
