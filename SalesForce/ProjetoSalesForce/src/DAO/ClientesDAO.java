@@ -8,6 +8,8 @@ import java.util.ArrayList;
 
 import Model.Clientes;
 
+/*Dao*/
+
 public class ClientesDAO {
 
 	ConnectionFactory cf = new ConnectionFactory();
